@@ -1,0 +1,17 @@
+header.header {
+    background-color: #610000;
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.8em;
+    color: rgb(248, 250, 225);
+}
+
+header.header p {
+    font-size: 1.2em;
+    color: rgb(207, 207, 207);
+}
